@@ -1,0 +1,1 @@
+# simple_blog_running_from_terminal
